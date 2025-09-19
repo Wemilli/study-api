@@ -18,4 +18,4 @@ jobs:
               uses: docker/build-push-action@v6
               with:
                  push: true
-                 tags: Wemilli/study-api:latest
+                 tags: wemilli/study-apir:latest
