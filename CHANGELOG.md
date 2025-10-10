@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/Wemilli/study-api/compare/v1.2.1...v1.3.0) (2025-10-10)
+
+
+### Features
+
+* setup CI ([fe9f767](https://github.com/Wemilli/study-api/commit/fe9f7676dc6acc97c4d2dac82041894ef0231a0a))
+
+
+### Documentation
+
+* rename title ([8236f08](https://github.com/Wemilli/study-api/commit/8236f08d0fd9da4feee98bf19c49053c3915d0f4))
+
 ## [1.2.1](https://github.com/Wemilli/study-api/compare/v1.2.0...v1.2.1) (2025-10-10)
 
 
