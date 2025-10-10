@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/Wemilli/study-api/compare/v1.0.0...v1.1.0) (2025-10-10)
+
+
+### Features
+
+* add pogx ([ee9fe1f](https://github.com/Wemilli/study-api/commit/ee9fe1fad69a1634f1e7588bf4b3469f7cc43877))
+
+
+### Bug Fixes
+
+* remove enpoint ([3ff1093](https://github.com/Wemilli/study-api/commit/3ff109362c5c077574be0a0f11eef438e4ee6fbc))
+
 ## 1.0.0 (2025-10-10)
 
 
