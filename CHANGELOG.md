@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/Wemilli/study-api/compare/v1.2.0...v1.2.1) (2025-10-10)
+
+
+### Bug Fixes
+
+* uppercase ([6b0a55e](https://github.com/Wemilli/study-api/commit/6b0a55e023241a382ac2c16114842dffbf4707c7))
+
 ## [1.2.0](https://github.com/Wemilli/study-api/compare/v1.1.0...v1.2.0) (2025-10-10)
 
 
