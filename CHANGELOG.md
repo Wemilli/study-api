@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Wemilli/study-api/compare/v1.1.0...v1.2.0) (2025-10-10)
+
+
+### Features
+
+* change pong ([4ed1d32](https://github.com/Wemilli/study-api/commit/4ed1d32a042b2c09df08b26af01d35880db70f5e))
+
 ## [1.1.0](https://github.com/Wemilli/study-api/compare/v1.0.0...v1.1.0) (2025-10-10)
 
 
