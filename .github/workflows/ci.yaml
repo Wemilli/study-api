@@ -1,7 +1,7 @@
 name: Cotinuous Integration
 
 on: 
-    pull_request:
+    push:
       branches:
         -feature/**
 
@@ -11,6 +11,5 @@ jobs:
         steps:
             - name: Checkout
               uses: actions/checkout@v5
-  
             - name: Build da aplicacao
               run: mvn clean package
